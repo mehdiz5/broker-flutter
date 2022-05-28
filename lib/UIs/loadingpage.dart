@@ -21,6 +21,7 @@ class _LoadingPageState extends State<LoadingPage> {
             Text(
                 "Welcome! please wait while we\n make your trading easier.",
               textAlign: TextAlign.center,
+
               style: TextStyle(
                 fontSize: 20,
                 color: Colors.white
